@@ -1,3 +1,3 @@
-# Módulo 0: Olá, Mundo! Primeiros passos na programação
+# Módulo 0: Testando meu primeiro git hub do curso do escola de dados
 
-Esse é o espaço com o desafio do módulo 0. # escola-de-dados
+primeiro desafio
